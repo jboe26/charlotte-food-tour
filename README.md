@@ -4,8 +4,13 @@ Welcome to the Queen City! This interactive Python-based text adventure lets you
 
 ## How to Play
 
-1. Open this repo in **GitHub Codespaces**
-2. Once the Codespace loads, open the terminal
+To run in VS Code:
+
+Open this repo in VS Code
+
+Open the integrated terminal
+
+Run: 
 3. Run the game with:
 
 ```bash
